@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="style3.css">
+    <title>Locations</title>
+  </head>
+  <body>
+    <header>
+      <h1>Le Voyage</h1>
+    </header>
+    <nav>
+      <ul>
+        <li> <a href="Accueil.html">Accueil</a></li>
+        <li> <a href="page2.html">Les moyens</a> </li>
+        <li> <a href="page3.html" class="active">Locations</a></li>
+      </ul>
+    </nav>
+    <section>
+      Voici la liste des lieux touristiques (sites culturels ou naturels) qui enregistrent le plus grand nombre de visiteurs chaque année.
+      <!-- Pics !-->
+      <div class="im1">
+     Cité Interdite - Chine
+      </div>
+      <div class="im2">
+        Notre Dame - Paris
+      </div>
+      <div class="im3">
+        Saint-Pierre de Rome au Vatican – Italie
+      </div>
+      <div class="im4">
+        Grande Muraille de Chine – Chine
+      </div>
+      <div class="im5">
+        basilique du Sacré-Coeur – Paris, France
+      </div>
+      <div class="im6">
+        Musée du Louvre – Paris, France
+      </div>
+      <div class="im7">
+        Opéra de Sydney – Australie
+      </div>
+      <div class="im8">
+        Palais Royal - Bangkok
+      </div>
+    </section>
+    <footer> Mahmoud Ben Moussa 3SI <a href="mailto:mahmoudbenmoussa91@gmail.com">mahmoudbenmoussa91@gmail.com</a>
+    </footer>
+  </body>
+</html>

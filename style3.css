@@ -1,0 +1,140 @@
+* {margin: 0;
+padding: 0;
+}
+section {
+	margin-left: 135px;
+	font-size: 24px;
+}
+header {
+	margin-top: 0px;
+	padding: 50px;
+	background-image:url("plane.jpg");
+	background-size:cover;
+	background-position: center;
+	text-align: center;
+	width: 50%;
+	margin-left: 300px;
+	border: 3px solid black;
+	border-radius: 10px;
+	font-size: 24px;
+}
+
+ul {
+	list-style-type:none;	
+	top: 0px;
+	width: 130px;
+	position:fixed;
+	height: 100%;
+	background-color: #0099cc;
+	border: solid 1px;
+}
+li a {
+	font-size: 24px;
+	display: block;
+	padding: 10px 16px;
+	text-decoration: none;
+	color: #000;
+	
+}
+li a:hover {
+	background-color: #555;
+	color:white;
+	
+}
+.active {
+  background-color: black;
+  color: white;
+}
+footer {
+	width: 89%;
+	background: gray;
+	margin-left: 135px;
+	bottom: 0;
+	text-align: center;
+	padding: 5px;
+	color: white;
+}
+footer a {
+	margin-left: 40%;
+	color: black;
+}
+div.im1 {
+	background-image: url("pics/1.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im2 {
+	background-image: url("pics/2.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im3 {
+	background-image: url("pics/3.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im4 {
+	background-image: url("pics/4.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im5 {
+	background-image: url("pics/5.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im6 {
+	background-image: url("pics/6.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im7 {
+	background-image: url("pics/7.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}
+div.im8 {
+	background-image: url("pics/8.jpg");
+	background-position: 50%;
+	width: 40%;
+	background-size:cover;
+	padding: 50px;
+	border-radius: 100px;
+	text-align:center;
+	color: white;
+}

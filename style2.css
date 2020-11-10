@@ -1,0 +1,93 @@
+* {margin: 0;
+padding: 0;
+}
+section {
+	margin-left: 135px;
+	font-size: 24px;
+}
+header {
+	margin-top: 0px;
+	padding: 50px;
+	background-image:url("plane.jpg");
+	background-size:cover;
+	background-position: center;
+	text-align: center;
+	width: 50%;
+	margin-left: 300px;
+	border: 3px solid black;
+	border-radius: 10px;
+	font-size: 24px;
+}
+
+ul {
+	list-style-type:none;	
+	top: 0px;
+	width: 130px;
+	position:fixed;
+	height: 100%;
+	background-color: #0099cc;
+	border: solid 1px;
+}
+li a {
+	font-size: 24px;
+	display: block;
+	padding: 10px 16px;
+	text-decoration: none;
+	color: #000;
+	
+}
+li a:hover {
+	background-color: #555;
+	color:white;
+	
+}
+.active {
+  background-color: black;
+  color: white;
+}
+footer {
+	width: 89%;
+	background: gray;
+	margin-left: 135px;
+	bottom: 0;
+	text-align: center;
+	padding: 5px;
+	color: white;
+}
+footer a {
+	margin-left: 40%;
+	color: black;
+}
+div.img1 {
+	margin-top: -200px;
+	
+}
+img.pic1 {
+	padding: 1px;
+	width: 40%;
+	margin-left: 58%;	
+	border-radius: 100px;
+}
+section p {
+	max-width: 50%;
+}
+div.img2 {
+	margin-top: -180px;
+	
+}
+img.pic2 {
+	padding: 1px;
+	width: 40%;
+	margin-left: 58%;	
+	border-radius: 100px;
+}
+div.img3 {
+	margin-top: -200px;
+	
+}
+img.pic3 {
+	padding: 1px;
+	width: 40%;
+	margin-left: 58%;	
+	border-radius: 100px;
+}

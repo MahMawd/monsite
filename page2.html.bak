@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Les moyens</title>
+    <link rel="stylesheet" href="style2.css">
+  </head>
+  <body>
+    <header>
+      <h1>Le Voyage</h1>
+    </header>
+    <nav>
+      <ul>
+        <li> <a href="Accueil.html">Accueil</a></li>
+        <li> <a href="page2.html" class="active">Les moyens</a> </li>
+        <li> <a href="page3.html">Locations</a></li>
+      </ul>
+    </nav>
+    <section> <h2>
+      <em>Le voyage en avion</em>
+      </h2>
+      <p>
+        L’avion est un moyen de transport bien connu et largement utilisé partout dans le monde.
+Si cet été, nous avons pu voir à la télévision un certain nombre de crashs, il reste encore le moyen de transport le plus sécurisé.
+
+Quels sont les avantages et les inconvénients de l’avion ? Découvrez-les dans les lignes ci-dessous.
+      </p>
+      <div class="img1">
+        <img src="EnAvion.jpeg" class="pic1" />
+      </div>
+      <h4> <em>Les avantages: </em></h4>
+      Bien évidemment, l’avion possède bon nombre d’avantages par rapport à d’autres moyens de transports comme la voiture ou le train.
+
+Tout d’abord, comme je vous le disais, il s’agit du moyen le plus sûr pour voyager. Certaines personnes ont une véritable peur de l’avion, ce qui peut se comprendre, mais la réalité est que c’est le moyen de transport sur lequel les accidents sont les plus rares car les protocoles de sécurité sont assez importants.
+      
+      <h4><em>Les inconvénients: </em></h4>
+      Puisque rien n’est jamais tout blanc ou tout noir, l’avion présente malgré tout quelques inconvénients.
+
+Tout d’abord, il est relativement cher. Il faut aussi s’y prendre à l’avance et être présent environ 2 heures avant le décollage pour l’enregistrement des bagages.
+    <h2>
+      <em>Le voyage en bateau</em></h2>
+      <p>
+        Le voyage en bateau de croisière offre de nombreux avantages comparés aux transports terrestres et aériens. En dépit de quelques inconvénients, la vie à bord des paquebots reste plaisante. Découvrez quelques pistes qui pourront vous aider à vous décider d’embarquer sur un navire.
+      </p>
+      <div class="img2">
+        <img src="EnBateau.jpg" class="pic2" />
+      </div>
+      <h4><em>Les avantages: </em></h4>
+      Sachez qu’à la différence du train ou de l’avion, vous êtes totalement libre de vos mouvements sur un paquebot. À bord, plusieurs divertissements sont à votre disposition. Alternez les baignades et les spectacles. 
+    	<h4><em>Les inconvénients: </em></h4>
+      Le mal de mer est la première source de désagréments sur un bateau. Puis, le prix de la croisière vous coutera nettement plus qu’un billet d’avion ou de TGV. Le voyage sur la mer prendra du temps, pendant lequel vous risquez de vous ennuyer malgré les animations sur le navire.
+    	<h2><em>Voyage véhiculair</em></h2>
+      <p>
+        Voyager en véhicule donne la possibilité d'aller où on veut quand on veut. C'est pouvoir aller plus loin qu'en sac ou en bus, ou du moins plus facilement. C'est aussi ne plus à avoir à s'occuper des horaires des bus ou des trains. C'est changer de lieu quand bon vous semble, et vous arrêter quand vous le désirez.
+      </p>
+      <div class="img3">
+        <img src="EnVoiture.jpg" class="pic3" />
+      </div>
+      <h4><em>Les avantages: </em></h4>
+      Les vacances en avion ou les croisières coûtent une coquette somme, tandis qu’avec la voiture, vous déterminez le budget comme il vous plaît. Voyager à bord de votre voiture est synonyme de liberté… 
+      <h4><em>Les inconvénients: </em></h4>
+      Même si c'est moins cher que le train, prévoyez un budget essence et péage (essayez de les éviter). Préparez bien le trajet à l'avance pour ne pas vous perdre. Faites un post-it avec les rappels des grandes villes à traverser.
+    </section>
+    <footer>
+       Mahmoud Ben Moussa 3SI
+			
+        <a href="mailto:mahmoudbenmoussa91@gmail.com">mahmoudbenmoussa91@gmail.com</a>
+      
+    </footer>
+  </body>
+</html>
